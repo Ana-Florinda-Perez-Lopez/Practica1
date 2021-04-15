@@ -1,0 +1,13 @@
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.exe
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.deps.json
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.runtimeconfig.json
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.runtimeconfig.dev.json
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.dll
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp3.1\TrianguloPascal.pdb
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.csprojAssemblyReference.cache
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.AssemblyInfoInputs.cache
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.AssemblyInfo.cs
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.csproj.CoreCompileInputs.cache
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.dll
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.pdb
+C:\Users\Ana Flor\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp3.1\TrianguloPascal.genruntimeconfig.cache
